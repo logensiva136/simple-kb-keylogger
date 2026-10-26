@@ -35,7 +35,7 @@ INJECTED from C:\Users\ILLEGEAR\Desktop\testing\exploits\FancyKeyboard\app\src\m
 		ADDED from C:\Users\ILLEGEAR\Desktop\testing\exploits\FancyKeyboard\app\src\main\AndroidManifest.xml:11:9-54
 	android:usesCleartextTraffic
 		ADDED from C:\Users\ILLEGEAR\Desktop\testing\exploits\FancyKeyboard\app\src\main\AndroidManifest.xml:12:9-44
-activity#ambank.gtr.testteam.SettingsActivity
+activity#ambank.gtr.redteam.SettingsActivity
 ADDED from C:\Users\ILLEGEAR\Desktop\testing\exploits\FancyKeyboard\app\src\main\AndroidManifest.xml:14:9-19:20
 	android:exported
 		ADDED from C:\Users\ILLEGEAR\Desktop\testing\exploits\FancyKeyboard\app\src\main\AndroidManifest.xml:14:52-75
@@ -47,7 +47,7 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\ILLEGEAR\Desktop\testing\exploits\FancyKeyboard\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
 		ADDED from C:\Users\ILLEGEAR\Desktop\testing\exploits\FancyKeyboard\app\src\main\AndroidManifest.xml:17:27-74
-service#ambank.gtr.testteam.FancyKeyboardService
+service#ambank.gtr.redteam.FancyKeyboardService
 ADDED from C:\Users\ILLEGEAR\Desktop\testing\exploits\FancyKeyboard\app\src\main\AndroidManifest.xml:21:9-30:19
 	android:label
 		ADDED from C:\Users\ILLEGEAR\Desktop\testing\exploits\FancyKeyboard\app\src\main\AndroidManifest.xml:23:13-43

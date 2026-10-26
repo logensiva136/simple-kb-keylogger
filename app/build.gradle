@@ -1,10 +1,10 @@
 plugins { id 'com.android.application' }
 
 android {
-    namespace 'ambank.gtr.testteam'
+    namespace 'ambank.gtr.redteam'
     compileSdk 34
     defaultConfig {
-        applicationId 'ambank.gtr.testteam'
+        applicationId 'ambank.gtr.redteam'
         minSdk 24
         targetSdk 34
         versionCode 1

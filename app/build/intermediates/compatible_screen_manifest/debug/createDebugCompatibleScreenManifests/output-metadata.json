@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "ambank.gtr.testteam",
+  "applicationId": "ambank.gtr.redteam",
   "variantName": "debug",
   "elements": []
 }

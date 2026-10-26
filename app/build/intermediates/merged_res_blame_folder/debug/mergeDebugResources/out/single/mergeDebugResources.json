@@ -1,6 +1,6 @@
 [
     {
-        "merged": "ambank.gtr.testteam.app-debug-4:/xml_method.xml.flat",
-        "source": "ambank.gtr.testteam.app-main-6:/xml/method.xml"
+        "merged": "ambank.gtr.redteam.app-debug-4:/xml_method.xml.flat",
+        "source": "ambank.gtr.redteam.app-main-6:/xml/method.xml"
     }
 ]
